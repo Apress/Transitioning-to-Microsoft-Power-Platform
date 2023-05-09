@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Transitioning to Microsoft Power Platform*](https://www.link.springer.com/book/10.1007/978-1-4842-9239-6) by David Ding (Apress, 2023).
+This repository accompanies [*Transitioning to Microsoft Power Platform*](https://link.springer.com/book/10.1007/978-1-4842-9239-6) by David Ding (Apress, 2023).
 
 [comment]: #cover
 ![Cover image](978-1-4842-9238-9.jpg)
